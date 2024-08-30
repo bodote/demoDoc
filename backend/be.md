@@ -1,2 +1,2 @@
 # be-test
-test3
+test3git config --global user.name "Your New Name"
